@@ -28,6 +28,11 @@ Each provider may process data according to their own privacy policies.
 - You can manage ad consent in the app (Profile -> Privacy & Ads) where available.
 - iOS may show the App Tracking Transparency (ATT) prompt; you can allow or deny tracking in system settings at any time.
 
+## Revoking Consent
+You can change or withdraw ad consent at any time:
+- Open the app and go to Profile -> Privacy & Ads -> Manage Privacy Options.
+- If you cannot access the app, contact us and we can help.
+
 ## Children
 ScriptureDaily is a general-audience app and is not directed to children under 13. If you believe a child has provided personal information to us, contact us and we will address it.
 
